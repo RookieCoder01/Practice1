@@ -1,0 +1,200 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+   height: 2010px;
+   font-size: medium;
+
+}
+/*  Top  class container starts from  here */
+.topcontainer{
+    position: relative;
+    background-color: #00ffd0;
+    height: 44%;
+   
+   
+}
+
+.heading1{
+    text-align: center;
+    font-size: 9vh;
+    font-family: 'Sacramento', cursive;
+     
+}
+.heading2{
+   text-align: center;
+   font-size: 5vh;
+   font-family: 'Sacramento', cursive;
+}
+
+.span{
+    text-decoration: underline;
+}
+
+.welcome-gif{
+    margin: 2px;
+    border-radius: 50%;
+    width: 20%;
+    position: relative;
+    left: 39vw;
+}
+
+.top-cloud{
+   position: relative;
+   left:70vw;
+}
+
+.bottom-cloud{
+    position: relative;
+    left:5%;  
+ }
+
+.crowimage{
+  height: 45vh;
+  position: absolute;
+  left: 80px;
+  top:20px;
+}
+
+.sunimage{
+    height: 30vh;
+    position: absolute;
+    top: 0px;
+    left: 12%;
+}
+/* Middle class cotainer starts from here */
+.Abdullahimage{
+    height: 30vh;
+    border-radius: 50%;
+    position: relative;
+    left: 42vw;  
+}
+    
+    
+.heading3{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    
+    color: rgb(255, 0, 68);
+    
+}
+.para1{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+   
+}
+.heading4{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 0, 68);
+    
+    
+}
+.skill1pic{
+   border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right:30px;
+ 
+}
+
+.skill2pic{
+    border-radius: 50%;
+    margin-left: 75%;
+    width: 25%;
+    float: right;
+    margin-left:30px;
+    
+
+    
+    
+}
+
+.heading5{
+   
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 0, 68);
+    
+}
+/* .para2{
+    display:flex ;
+    justify-content: center;
+    align-items: center;   
+} */
+
+.heading6{  
+    color:  rgb(255, 0, 68);
+    text-align: right;
+}
+/* .para3{
+    display:flex ;
+    justify-content: center;
+    align-items: center;   
+} */
+
+/* contact me details starts from here */
+.contactme{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+/* Bottom container starts from here */
+    .bottom-container{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        
+        
+    
+    }
+.heading7{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    
+}
+.contactmelink{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+.contact-me{
+    color: rgb(255, 0, 68);
+}
+
+
+.footer-link{
+      display:flex ;
+    justify-content: center;
+    align-items: center;
+
+}
+.para4{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+
+}
+/* skills row claases  starts from here */
+.skill-row{
+    width: 50%;
+    margin: 90px auto 100px auto;
+    text-align: left;
+    line-height: 2;  
+}
+
+/* hr{
+    background-color:#4bdcc1;
+    border-style: none;
+    border-top-style:dotted ;
+    border-width:0.3em ;
+    width: 5% ;
+    text-align: center;
+} */
