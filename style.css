@@ -3,10 +3,11 @@
 }
 
 body{
+   
     margin: 0%;
     padding: 0%;
    height: 2010px;
-   font-size: medium;
+  font-size: large;
 
 }
 /*  Top  class container starts from  here */
@@ -70,7 +71,11 @@ body{
     height: 30vh;
     border-radius: 50%;
     position: relative;
-    left: 42vw;  
+    left: 42vw;
+   margin-top: 100px;
+   margin-bottom: 20px; 
+   
+   
 }
     
     
@@ -86,6 +91,8 @@ body{
     display:flex ;
     justify-content: center;
     align-items: center;
+    width: 30%;
+    margin: auto;
    
 }
 .heading4{
